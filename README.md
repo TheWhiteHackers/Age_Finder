@@ -1,5 +1,3 @@
 # Age_Finder
 
-![image of web](image.png =200x250)
-
-<img src="image.png"  width="200" height="250">
+<img src="image.png"  width="300" height="250">
